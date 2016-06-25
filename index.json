@@ -1,10 +1,15 @@
 {
-    "basePath": "configs/",
-    "configs": [{
-        "name": "images",
-        "file": "images.json"
-    }, {
-        "name": "texts",
-        "file": "texts.json"
-    }]
+  "basePath": "configs/", 
+  "configs": [
+    {
+      "name": "images", 
+      "file": "images.json", 
+      "md5": "2a180afaf3d97ad5fd45e03e54f5ce5f"
+    }, 
+    {
+      "name": "texts", 
+      "file": "texts.json", 
+      "md5": "5aec410b3a103b571524773bf9f98b2c"
+    }
+  ]
 }
