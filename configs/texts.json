@@ -1,0 +1,8 @@
+{
+    "basePath": "assets/texts/",
+    "files": [{
+        "name": "sample-text",
+        "contributor": "test-text",
+        "file": "sample-image.md"
+    }]
+}

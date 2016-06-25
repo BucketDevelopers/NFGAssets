@@ -1,0 +1,10 @@
+{
+    "basePath": "configs/",
+    "configs": [{
+        "name": "images",
+        "file": "images.json"
+    }, {
+        "name": "texts",
+        "file": "texts.json"
+    }]
+}
