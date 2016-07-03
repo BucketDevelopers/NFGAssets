@@ -3,6 +3,7 @@
     "files": [{
         "name": "sample-text",
         "contributor": "test-text",
-        "file": "sample-image.md"
+        "file": "sample-image.md",
+        "id": "t0"
     }]
 }
