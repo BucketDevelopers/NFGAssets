@@ -3,7 +3,7 @@
     "files": [{
         "name": "sample-markdown",
         "contributor": "test-markdown",
-        "file": "sample-image.md"
+        "file": "sample-text.md"
     }, {
         "name": "sample-text",
         "contributor": "test-text",
