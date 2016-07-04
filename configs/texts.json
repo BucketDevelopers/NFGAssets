@@ -3,11 +3,10 @@
     "files": [{
         "name": "sample-markdown",
         "contributor": "test-markdown",
-        "file": "sample-image.md",
-    },
-    {
+        "file": "sample-image.md"
+    }, {
         "name": "sample-text",
         "contributor": "test-text",
-        "text": "This is a simple text!",
+        "text": "This is a simple text!"
     }]
 }

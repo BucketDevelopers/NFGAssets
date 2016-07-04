@@ -3,6 +3,6 @@
     "files": [{
         "name": "sample-image",
         "contributor": "test-image",
-        "file": "sample-image.jpeg",
+        "file": "sample-image.jpeg"
     }]
 }
