@@ -1,9 +1,13 @@
 {
     "basePath": "assets/texts/",
     "files": [{
+        "name": "sample-markdown",
+        "contributor": "test-markdown",
+        "file": "sample-image.md",
+    },
+    {
         "name": "sample-text",
         "contributor": "test-text",
-        "file": "sample-image.md",
-        "id": "t0"
+        "text": "This is a simple text!",
     }]
 }
