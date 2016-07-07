@@ -1,12 +1,17 @@
 {
-    "basePath": "assets/images/",
-    "files": [{
-        "name": "sample-image",
-        "contributor": "test-image",
-        "file": "sample-image.jpeg"
-    },{
-        "name": "sample-image",
-        "contributor": "test-image",
-        "url": "http://images.fonearena.com/blog/wp-content/uploads/2013/11/Lenovo-p780-camera-sample-10.jpg"
-    }]
+  "files": [
+    {
+      "contributor": "test-image", 
+      "name": "sample-image", 
+      "file": "sample-image.jpeg", 
+      "id": "images0"
+    }, 
+    {
+      "contributor": "test-image", 
+      "url": "http://images.fonearena.com/blog/wp-content/uploads/2013/11/Lenovo-p780-camera-sample-10.jpg", 
+      "name": "sample-image", 
+      "id": "images1"
+    }
+  ], 
+  "basePath": "assets/images/"
 }

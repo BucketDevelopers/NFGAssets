@@ -19,7 +19,8 @@ configs = index_json['configs']
 for config in configs:
     md5 = calc_md5(base_path+config['file'])
     config.update({'md5':md5})
-x = json.dumps(index_json,indent=2)    
+    print("updating md5 for ",config['file'],md5)
+x = json.dumps(index_json,indent=2)
 index_file = open('index.json','w')
 index_file.write(x)
 index_file.close()

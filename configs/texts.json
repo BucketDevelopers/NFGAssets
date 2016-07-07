@@ -1,32 +1,47 @@
 {
-    "basePath": "assets/texts/",
-    "files": [{
-        "name": "sample-markdown",
-        "contributor": "test-markdown",
-        "file": "sample-text.md"
-    }, {
-        "name": "sample-text1",
-        "contributor": "test-text1",
-        "text": "This is a simple text1!"
-    }, {
-        "name": "sample-text2",
-        "contributor": "test-text2",
-        "text": "This is a simple text2!"
-    }, {
-        "name": "sample-text3",
-        "contributor": "test-text3",
-        "text": "This is a simple text3!"
-    }, {
-        "name": "sample-text4",
-        "contributor": "test-text4",
-        "text": "This is a simple text!4"
-    }, {
-        "name": "sample-text5",
-        "contributor": "test-text5",
-        "text": "This is a simple text!5"
-    }, {
-        "name": "sample-text6",
-        "contributor": "test-text6",
-        "text": "This is a simple text6!"
-    }]
+  "files": [
+    {
+      "contributor": "test-markdown", 
+      "name": "sample-markdown", 
+      "file": "sample-text.md", 
+      "id": "texts0"
+    }, 
+    {
+      "contributor": "test-text1", 
+      "text": "This is a simple text1!", 
+      "name": "sample-text1", 
+      "id": "texts1"
+    }, 
+    {
+      "contributor": "test-text2", 
+      "text": "This is a simple text2!", 
+      "name": "sample-text2", 
+      "id": "texts2"
+    }, 
+    {
+      "contributor": "test-text3", 
+      "text": "This is a simple text3!", 
+      "name": "sample-text3", 
+      "id": "texts3"
+    }, 
+    {
+      "contributor": "test-text4", 
+      "text": "This is a simple text!4", 
+      "name": "sample-text4", 
+      "id": "texts4"
+    }, 
+    {
+      "contributor": "test-text5", 
+      "text": "This is a simple text!5", 
+      "name": "sample-text5", 
+      "id": "texts5"
+    }, 
+    {
+      "contributor": "test-text6", 
+      "text": "This is a simple text6!", 
+      "name": "sample-text6", 
+      "id": "texts6"
+    }
+  ], 
+  "basePath": "assets/texts/"
 }
