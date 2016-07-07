@@ -4,12 +4,12 @@
     {
       "name": "images", 
       "file": "images.json", 
-      "md5": "a40210f9fc13eb6daa4309a617b4784f"
+      "md5": "789aba7994e23d7f8cd9c715ee50d502"
     }, 
     {
       "name": "texts", 
       "file": "texts.json", 
-      "md5": "77de158efcc14bad443fab9837f9c7b2"
+      "md5": "dddac26986c8ea1b211cf7c1274494c9"
     }
   ]
 }
