@@ -1,9 +1,9 @@
 {
   "files": [
     {
-      "contributor": "test-markdown", 
-      "name": "sample-markdown", 
-      "file": "sample-text.md", 
+      "contributor": "master", 
+      "name": "404 file not found", 
+      "file": "404-not-found.md", 
       "id": "texts0"
     }, 
     {
@@ -32,21 +32,15 @@
     }, 
     {
       "contributor": "master", 
-      "text": "_404 File not found**. You apparently thought you\u2019d find me giving a fuck about you. You were wrong. You could try the following \u2013 -Find someone else who gives a fuck about you - grow the fuck up  - just fuck off`", 
-      "name": "404-file", 
-      "id": "texts5"
-    }, 
-    {
-      "contributor": "master", 
       "text": "Today\u2019s lesson is titled **I don\u2019t give a fuck about you**. Tomorrow\u2019s lesson is the same as today\u2019s!!", 
       "name": "lesson-todays", 
-      "id": "texts6"
+      "id": "texts5"
     }, 
     {
       "contributor": "master", 
       "text": "**Wanting** you to fuck off and **giving** a fuck about you are not the same thing. So fuck off!!", 
       "name": "deep-meanings", 
-      "id": "texts7"
+      "id": "texts6"
     }
   ], 
   "basePath": "assets/texts/"
