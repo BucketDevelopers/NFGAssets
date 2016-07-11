@@ -6,6 +6,8 @@ You were wrong !
 
 You could try the following :
 
-- **Find someone else who gives a fuck about you**
-- **grow the fuck up **
-- **just fuck off **
+-  **Find someone else who gives a fuck about you**
+
+-  **grow the fuck up **
+
+-  **just fuck off **
