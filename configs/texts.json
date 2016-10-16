@@ -1,47 +1,1751 @@
 {
   "files": [
     {
-      "contributor": "master", 
-      "name": "404 file not found", 
-      "file": "404-not-found.md", 
+      "contributor": "master",
+      "name": "404 file not found",
+      "file": "404-not-found.md",
       "id": "texts0"
-    }, 
+    },
     {
-      "contributor": "master", 
-      "text": "It appears, due to circumstances entirely out of my control, that despite every best effort I am forced to draw the conclusion from matters entirely separate from your actions that all fucks which were previously reserved here for your convenience have now found themselves within something of a deficit.", 
-      "name": "out-of-control", 
+      "contributor": "auto",
+      "text": "100,000 sperm, you were the fastest?",
+      "name": "auto1",
       "id": "texts1"
     }, 
     {
-      "contributor": "master", 
-      "text": "I've checked my **things to do** list. I searched a lot but giving a fuck about you just isn't there", 
-      "name": "things-to-do-list", 
+      "contributor": "auto",
+      "text": "A pretty girl can kiss a guy* a bird can kiss a butterfly* the rising sun can kiss the grass* but you my friend!! yes you!! YOU CAN KISS MY ASS*******",
+      "name": "auto2",
       "id": "texts2"
-    }, 
+    },
     {
-      "contributor": "master", 
-      "text": "**NASA** sent a deep space probe to the planet `Giveafuckaboutyou` and confirmed that I wasn't there", 
-      "name": "nasa-space-probe", 
+      "contributor": "auto",
+      "text": "A sharp tongue is no indication of a keen mind.",
+      "name": "auto3",
       "id": "texts3"
-    }, 
+    },
     {
-      "contributor": "master", 
-      "text": "Your web search **times I give a fuck about you** returned no results. Did you mean **times I don't give a fuck about you?**", 
-      "name": "web-search", 
+      "contributor": "auto",
+      "text": "Am I getting smart with you? How would you know?",
+      "name": "auto4",
       "id": "texts4"
-    }, 
+    },
     {
-      "contributor": "master", 
-      "text": "Today's lesson is titled **I don't give a fuck about you**. Tomorrow's lesson is the same as today's!!", 
-      "name": "lesson-todays", 
+      "contributor": "auto",
+      "text": "Are you always an idiot, or just when I\u2019m around?",
+      "name": "auto5",
       "id": "texts5"
-    }, 
+    },
     {
-      "contributor": "master", 
-      "text": "**Wanting** you to fuck off and **giving** a fuck about you are not the same thing. So fuck off!!", 
-      "name": "deep-meanings", 
+      "contributor": "auto",
+      "text": "Are you always such an idiot, or do you just show off when I\u2019m around?",
+      "name": "auto6",
       "id": "texts6"
+    },
+    {
+      "contributor": "auto",
+      "text": "Are your parents siblings?",
+      "name": "auto7",
+      "id": "texts7"
+    },
+    {
+      "contributor": "auto",
+      "text": "At least when I do a handstand my stomach doesn\u2019t hit me in the face.",
+      "name": "auto8",
+      "id": "texts8"
+    },
+    {
+      "contributor": "auto",
+      "text": "Aww, it\u2019s so cute when you try to talk about things you don\u2019t understand.",
+      "name": "auto9",
+      "id": "texts9"
+    },
+    {
+      "contributor": "auto",
+      "text": "Brains aren\u2019t everything. In your case they\u2019re nothing.",
+      "name": "auto10",
+      "id": "texts10"
+    },
+    {
+      "contributor": "auto",
+      "text": "Calling you an idiot would be an insult to all stupid people.",
+      "name": "auto11",
+      "id": "texts11"
+    },
+    {
+      "contributor": "auto",
+      "text": "Can you die of constipation? I ask because I\u2019m worried about how full of shit you are.",
+      "name": "auto12",
+      "id": "texts12"
+    },
+    {
+      "contributor": "auto",
+      "text": "Cancel my subscriptions \u2026 I\u2019m tired of your issues.",
+      "name": "auto13",
+      "id": "texts13"
+    },
+    {
+      "contributor": "auto",
+      "text": "Come again when you can\u2019t stay quite so long.",
+      "name": "auto14",
+      "id": "texts14"
+    },
+    {
+      "contributor": "auto",
+      "text": "Did you know they used to be called \u201cJumpolines\u201d until your mum jumped on one?",
+      "name": "auto15",
+      "id": "texts15"
+    },
+    {
+      "contributor": "auto",
+      "text": "Did your parents ever ask you to run away from home?",
+      "name": "auto16",
+      "id": "texts16"
+    },
+    {
+      "contributor": "auto",
+      "text": "Do you ever wonder what life would be like if you\u2019d gotten enough oxygen at birth?",
+      "name": "auto17",
+      "id": "texts17"
+    },
+    {
+      "contributor": "auto",
+      "text": "Do you still love nature, despite what it did to you?",
+      "name": "auto18",
+      "id": "texts18"
+    },
+    {
+      "contributor": "auto",
+      "text": "Do your parents even realize they\u2019re living proof that two wrongs don\u2019t make a right?",
+      "name": "auto19",
+      "id": "texts19"
+    },
+    {
+      "contributor": "auto",
+      "text": "Do yourself a favor and ignore anyone who tells you to be yourself. Bad idea in your case.",
+      "name": "auto20",
+      "id": "texts20"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t feel sad, don\u2019t feel blue, Frankenstein was ugly too.",
+      "name": "auto21",
+      "id": "texts21"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t get insulted, but is your life devoted to spreading ignorance?",
+      "name": "auto22",
+      "id": "texts22"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t hate me because I\u2019m beautiful hate me because your boyfriend thinks so.",
+      "name": "auto23",
+      "id": "texts23"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t let your mind wander. It\u2019s way to small to be outside by itself!",
+      "name": "auto24",
+      "id": "texts24"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t piss me off today, I\u2019m running out of places to hide the bodies",
+      "name": "auto25",
+      "id": "texts25"
+    },
+    {
+      "contributor": "auto",
+      "text": "Don\u2019t you get tired of putting make up on two faces every morning?",
+      "name": "auto26",
+      "id": "texts26"
+    },
+    {
+      "contributor": "auto",
+      "text": "Earth is full. Go home.",
+      "name": "auto27",
+      "id": "texts27"
+    },
+    {
+      "contributor": "auto",
+      "text": "Even if you were twice as smart, you\u2019d still be stupid!",
+      "name": "auto28",
+      "id": "texts28"
+    },
+    {
+      "contributor": "auto",
+      "text": "Ever since I saw you in your family tree, I\u2019ve wanted to cut it down.",
+      "name": "auto29",
+      "id": "texts29"
+    },
+    {
+      "contributor": "auto",
+      "text": "Everyone\u2019s entitled to act stupid once in awhile, but you really abuse the privilege.",
+      "name": "auto30",
+      "id": "texts30"
+    },
+    {
+      "contributor": "auto",
+      "text": "FOR THE LAST TIME! Your mother left here at 9 this morning\u2026 Leave me alone!",
+      "name": "auto31",
+      "id": "texts31"
+    },
+    {
+      "contributor": "auto",
+      "text": "Forget the ugly stick! you must have been born in the ugly forest!",
+      "name": "auto32",
+      "id": "texts32"
+    },
+    {
+      "contributor": "auto",
+      "text": "Gay? I\u2019m straighter than the pole your mom dances on.",
+      "name": "auto33",
+      "id": "texts33"
+    },
+    {
+      "contributor": "auto",
+      "text": "God made mountains, god made trees, god made you but we all make mistakes.",
+      "name": "auto34",
+      "id": "texts34"
+    },
+    {
+      "contributor": "auto",
+      "text": "Good story, but in what chapter do you shut the fuck up?",
+      "name": "auto35",
+      "id": "texts35"
+    },
+    {
+      "contributor": "auto",
+      "text": "Grab a straw because you suck.",
+      "name": "auto36",
+      "id": "texts36"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hey- I am away from my computer but in the meantime, why don\u2019t you go play in traffic?!",
+      "name": "auto37",
+      "id": "texts37"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hey, here\u2019s a hint. If i don\u2019t answer you the first 25 times, what makes you think the next 25 will work?",
+      "name": "auto38",
+      "id": "texts38"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hey, Remember that time I told you I thought you were cool? I LIED.",
+      "name": "auto39",
+      "id": "texts39"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hey, you have something on your chin\u2026 no, the 3rd one down.",
+      "name": "auto40",
+      "id": "texts40"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hey, your village called \u2013 they want their idiot back.",
+      "name": "auto41",
+      "id": "texts41"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hmm\u2026I don\u2019t know what your problem is\u2026but I\u2019m going to bet it\u2019s really hard to pronounce\u2026",
+      "name": "auto42",
+      "id": "texts42"
+    },
+    {
+      "contributor": "auto",
+      "text": "Hold on, I\u2019ll go find you a tampon.",
+      "name": "auto43",
+      "id": "texts43"
+    },
+    {
+      "contributor": "auto",
+      "text": "How about a little less questions and a little more shut the hell up? I\u2019m away live with it.",
+      "name": "auto44",
+      "id": "texts44"
+    },
+    {
+      "contributor": "auto",
+      "text": "How do you keep an idiot in suspense? Leave a message and I\u2019ll get back to you\u2026",
+      "name": "auto45",
+      "id": "texts45"
+    },
+    {
+      "contributor": "auto",
+      "text": "I believed in evolution until I met you.",
+      "name": "auto46",
+      "id": "texts46"
+    },
+    {
+      "contributor": "auto",
+      "text": "I called your boyfriend gay and he hit me with his purse!",
+      "name": "auto47",
+      "id": "texts47"
+    },
+    {
+      "contributor": "auto",
+      "text": "I cant hear you over the sound of how stupid you are.",
+      "name": "auto48",
+      "id": "texts48"
+    },
+    {
+      "contributor": "auto",
+      "text": "I can\u2019t help imagining how much awesomer the world would be if your dad had just pulled out.",
+      "name": "auto49",
+      "id": "texts49"
+    },
+    {
+      "contributor": "auto",
+      "text": "I could eat a bowl of alphabet soup and shit out a smarter statement than whatever you just said.",
+      "name": "auto50",
+      "id": "texts50"
+    },
+    {
+      "contributor": "auto",
+      "text": "I don\u2019t exactly hate you, but if you were on fire and I had water, I\u2019d drink it.",
+      "name": "auto51",
+      "id": "texts51"
+    },
+    {
+      "contributor": "auto",
+      "text": "I don\u2019t know what makes you so stupid, but it really works!",
+      "name": "auto52",
+      "id": "texts52"
+    },
+    {
+      "contributor": "auto",
+      "text": "I don\u2019t know what your problem is, but I\u2019m guessing it\u2019s hard to pronounce.",
+      "name": "auto53",
+      "id": "texts53"
+    },
+    {
+      "contributor": "auto",
+      "text": "I fart to make you smell better.",
+      "name": "auto54",
+      "id": "texts54"
+    },
+    {
+      "contributor": "auto",
+      "text": "I have always wondered why people bang their heads against brick walls\u2026.. then I met you. Don\u2019t bother leaving a message.",
+      "name": "auto55",
+      "id": "texts55"
+    },
+    {
+      "contributor": "auto",
+      "text": "I hear the only place you\u2019re ever invited is outside.",
+      "name": "auto56",
+      "id": "texts56"
+    },
+    {
+      "contributor": "auto",
+      "text": "I heard you took an IQ test and they said you\u2019re results were negative.",
+      "name": "auto57",
+      "id": "texts57"
+    },
+    {
+      "contributor": "auto",
+      "text": "I heard you went to a haunted house and they offered you a job.",
+      "name": "auto58",
+      "id": "texts58"
+    },
+    {
+      "contributor": "auto",
+      "text": "I heard your parents took you to a dog show and you won.",
+      "name": "auto59",
+      "id": "texts59"
+    },
+    {
+      "contributor": "auto",
+      "text": "I just stepped in something that was smarter than you\u2026 and smelled better too.",
+      "name": "auto60",
+      "id": "texts60"
+    },
+    {
+      "contributor": "auto",
+      "text": "I look into your eyes and get the feeling someone else is driving.",
+      "name": "auto61",
+      "id": "texts61"
+    },
+    {
+      "contributor": "auto",
+      "text": "I love what you\u2019ve done with your hair. How do you get it to come out of the nostrils like that?",
+      "name": "auto62",
+      "id": "texts62"
+    },
+    {
+      "contributor": "auto",
+      "text": "I may be fat, but you\u2019re ugly, and I can lose weight.",
+      "name": "auto63",
+      "id": "texts63"
+    },
+    {
+      "contributor": "auto",
+      "text": "I may be fat,but you\u2019re ugly,and I can diet!!!",
+      "name": "auto64",
+      "id": "texts64"
+    },
+    {
+      "contributor": "auto",
+      "text": "I may love to shop but I\u2019m not buying your bull.",
+      "name": "auto65",
+      "id": "texts65"
+    },
+    {
+      "contributor": "auto",
+      "text": "I need you\u2026\u2026\u2026..I want you\u2026\u2026\u2026\u2026To get out of my face",
+      "name": "auto66",
+      "id": "texts66"
+    },
+    {
+      "contributor": "auto",
+      "text": "I really don\u2019t like you but if you really must leave a message, I\u2019ll be nice and at least pretend to care.",
+      "name": "auto67",
+      "id": "texts67"
+    },
+    {
+      "contributor": "auto",
+      "text": "I thought of you all day today. I was at the zoo.",
+      "name": "auto68",
+      "id": "texts68"
+    },
+    {
+      "contributor": "auto",
+      "text": "I thought of you today. It reminded me to take the garbage out.",
+      "name": "auto69",
+      "id": "texts69"
+    },
+    {
+      "contributor": "auto",
+      "text": "I was going to give you a nasty look but I see that you\u2019ve already got one.",
+      "name": "auto70",
+      "id": "texts70"
+    },
+    {
+      "contributor": "auto",
+      "text": "I was hoping for a battle of wits but it would be wrong to attack someone who\u2019s totally unarmed.",
+      "name": "auto71",
+      "id": "texts71"
+    },
+    {
+      "contributor": "auto",
+      "text": "I was hoping for a battle of wits but you appear to be unarmed.",
+      "name": "auto72",
+      "id": "texts72"
+    },
+    {
+      "contributor": "auto",
+      "text": "I was pro life. Then I met you.",
+      "name": "auto73",
+      "id": "texts73"
+    },
+    {
+      "contributor": "auto",
+      "text": "I wasn\u2019t born with enough middle fingers to let you know how I feel about you.",
+      "name": "auto74",
+      "id": "texts74"
+    },
+    {
+      "contributor": "auto",
+      "text": "I wish you no harm, but it would have been much better if you had never lived.",
+      "name": "auto75",
+      "id": "texts75"
+    },
+    {
+      "contributor": "auto",
+      "text": "If a crackhead saw you, he\u2019d think he needs to go on a diet.",
+      "name": "auto76",
+      "id": "texts76"
+    },
+    {
+      "contributor": "auto",
+      "text": "If assholes could fly, this place would be an airport!",
+      "name": "auto77",
+      "id": "texts77"
+    },
+    {
+      "contributor": "auto",
+      "text": "If brains were dynamite you wouldn\u2019t have enough to blow your nose.",
+      "name": "auto78",
+      "id": "texts78"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I could be one person for a day, it sure as hell wouldn\u2019t be you.",
+      "name": "auto79",
+      "id": "texts79"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I had a dollar for every brain you didn\u2019t have, I\u2019d have one dollar.",
+      "name": "auto80",
+      "id": "texts80"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I had a face like yours I\u2019d sue my parents.",
+      "name": "auto81",
+      "id": "texts81"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I threw a stick, you\u2019d leave, right?",
+      "name": "auto82",
+      "id": "texts82"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I wanted a bitch, I\u2019d have bought a dog.",
+      "name": "auto83",
+      "id": "texts83"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I wanted to hear from an asshole, I\u2019d fart.",
+      "name": "auto84",
+      "id": "texts84"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I wanted to kill myself I\u2019d climb your ego and jump to your IQ.",
+      "name": "auto85",
+      "id": "texts85"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I wanted to listen to an asshole I\u2019d fart.",
+      "name": "auto86",
+      "id": "texts86"
+    },
+    {
+      "contributor": "auto",
+      "text": "If I wanted to talk to you, I would have called you first.",
+      "name": "auto87",
+      "id": "texts87"
+    },
+    {
+      "contributor": "auto",
+      "text": "If ignorance is bliss, you must be the happiest person on earth.",
+      "name": "auto88",
+      "id": "texts88"
+    },
+    {
+      "contributor": "auto",
+      "text": "If laughter is the best medicine, your face must be curing the world.",
+      "name": "auto89",
+      "id": "texts89"
+    },
+    {
+      "contributor": "auto",
+      "text": "If my dog had your face, I would shave his butt and make him walk backwards.",
+      "name": "auto90",
+      "id": "texts90"
+    },
+    {
+      "contributor": "auto",
+      "text": "If what you don\u2019t know can\u2019t hurt you, you\u2019re invulnerable.",
+      "name": "auto91",
+      "id": "texts91"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you didn\u2019t have feet you wouldn\u2019t wear shoes\u2026..then why do you wear a bra??!",
+      "name": "auto92",
+      "id": "texts92"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you had another brain, it would be lonely.",
+      "name": "auto93",
+      "id": "texts93"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you ran 1,000,000 miles to see the boy/girl of your dreams, what would you say when you got there?",
+      "name": "auto94",
+      "id": "texts94"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you really want to know about mistakes, you should ask your parents.",
+      "name": "auto95",
+      "id": "texts95"
+    },
+    {
+      "contributor": "auto",
+      "text": "If your brain exploded, it wouldn\u2019t even mess up your hair.",
+      "name": "auto96",
+      "id": "texts96"
+    },
+    {
+      "contributor": "auto",
+      "text": "If your brain was made of chocolate, it wouldn\u2019t fill an M&M.",
+      "name": "auto97",
+      "id": "texts97"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you\u2019re going to be two-faced, at least make one of them pretty.",
+      "name": "auto98",
+      "id": "texts98"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you\u2019re gonna act like a dick you should wear a condom on your head so you can at least look like one.",
+      "name": "auto99",
+      "id": "texts99"
+    },
+    {
+      "contributor": "auto",
+      "text": "If you\u2019re waiting for me to care, I hope you brought something to eat, \u2018cause it\u2019s gonna be a really long time.",
+      "name": "auto100",
+      "id": "texts100"
+    },
+    {
+      "contributor": "auto",
+      "text": "Is that your face? Or did your neck just throw up?",
+      "name": "auto101",
+      "id": "texts101"
+    },
+    {
+      "contributor": "auto",
+      "text": "Is your ass jealous of the amount of shit that just came out of your mouth?",
+      "name": "auto102",
+      "id": "texts102"
+    },
+    {
+      "contributor": "auto",
+      "text": "Is your name Maple Syrup? It should be, you sap.",
+      "name": "auto103",
+      "id": "texts103"
+    },
+    {
+      "contributor": "auto",
+      "text": "It looks like your face caught fire and someone tried to put it out with a hammer.",
+      "name": "auto104",
+      "id": "texts104"
+    },
+    {
+      "contributor": "auto",
+      "text": "It\u2019s better to keep your mouth shut and give the \u2018impression\u2019 that you\u2019re stupid than to open it and remove all doubt.",
+      "name": "auto105",
+      "id": "texts105"
+    },
+    {
+      "contributor": "auto",
+      "text": "It\u2019s better to let someone think you\u2019re stupid than open your mouth and prove it.",
+      "name": "auto106",
+      "id": "texts106"
+    },
+    {
+      "contributor": "auto",
+      "text": "It\u2019s kind of hilarious watching you try to fit your entire vocabulary into one sentence.",
+      "name": "auto107",
+      "id": "texts107"
+    },
+    {
+      "contributor": "auto",
+      "text": "It\u2019s kinda sad watching you attempt to fit your entire >",
+      "name": "auto108",
+      "id": "texts108"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d give you a nasty look but you\u2019ve already got one.",
+      "name": "auto109",
+      "id": "texts109"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d like to help you out. Which way did you come in?",
+      "name": "auto110",
+      "id": "texts110"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d like to kick you in the teeth, but that would be an improvement!",
+      "name": "auto111",
+      "id": "texts111"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d like to see things from your point of view, but I can\u2019t seem to get my head that far up your ass.",
+      "name": "auto112",
+      "id": "texts112"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d slap you but I don\u2019t want to make your face look any better.",
+      "name": "auto113",
+      "id": "texts113"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d tell you how I really feel, but I wasn\u2019t born with enough middle fingers to express myself in this case.",
+      "name": "auto114",
+      "id": "texts114"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019d tell you to go fuck yourself, but that would be cruel and unusual punishment.",
+      "name": "auto115",
+      "id": "texts115"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019ll never forget the first time we met, although I\u2019ll keep trying.",
+      "name": "auto116",
+      "id": "texts116"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m blonde, what\u2019s your excuse?",
+      "name": "auto117",
+      "id": "texts117"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m jealous of all the people that haven\u2019t met you!",
+      "name": "auto118",
+      "id": "texts118"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m not a proctologist, but I know an asshole when I see one.",
+      "name": "auto119",
+      "id": "texts119"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m not here right now so cry me a river, build yourself a bridge, and GET OVER IT!!!",
+      "name": "auto120",
+      "id": "texts120"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m not mean. You\u2019re just a sissy.",
+      "name": "auto121",
+      "id": "texts121"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m sorry I didn\u2019t get that \u2013 I don\u2019t speak idiot.",
+      "name": "auto122",
+      "id": "texts122"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m sorry, Talking to you seems as appealing as playing leapfrog with unicorns.",
+      "name": "auto123",
+      "id": "texts123"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m sorry, was I meant to be offended? The only thing offending me is your face.",
+      "name": "auto124",
+      "id": "texts124"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019m trying my absolute hardest to see things from your perspective, but I just can\u2019t get my head that far up my ass.",
+      "name": "auto125",
+      "id": "texts125"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019ve been called worse by better.",
+      "name": "auto126",
+      "id": "texts126"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019ve come across decomposed bodies that are less offensive than you are.",
+      "name": "auto127",
+      "id": "texts127"
+    },
+    {
+      "contributor": "auto",
+      "text": "I\u2019ve seen people like you before, but I had to pay admission.",
+      "name": "auto128",
+      "id": "texts128"
+    },
+    {
+      "contributor": "auto",
+      "text": "Jealously is a disease. Get well soon bitch.",
+      "name": "auto129",
+      "id": "texts129"
+    },
+    {
+      "contributor": "auto",
+      "text": "Jesus loves you\u2026 but everyone else thinks you\u2019re an asshole.",
+      "name": "auto130",
+      "id": "texts130"
+    },
+    {
+      "contributor": "auto",
+      "text": "Jesus might love you, but everyone else definitely thinks you\u2019re an idiot.",
+      "name": "auto131",
+      "id": "texts131"
+    },
+    {
+      "contributor": "auto",
+      "text": "Just because you have one doesn\u2019t mean you need to act like one.",
+      "name": "auto132",
+      "id": "texts132"
+    },
+    {
+      "contributor": "auto",
+      "text": "Just reminding u there is a very fine line between hobby and mental illness.",
+      "name": "auto133",
+      "id": "texts133"
+    },
+    {
+      "contributor": "auto",
+      "text": "Just wait till you can\u2019t fit your hand in the Pringles tubes, then where will you get your daily nutrition from?",
+      "name": "auto134",
+      "id": "texts134"
+    },
+    {
+      "contributor": "auto",
+      "text": "Keep talking, someday you\u2019ll say something intelligent!",
+      "name": "auto135",
+      "id": "texts135"
+    },
+    {
+      "contributor": "auto",
+      "text": "Learn from your parents\u2019 mistakes \u2013 use birth control!",
+      "name": "auto136",
+      "id": "texts136"
+    },
+    {
+      "contributor": "auto",
+      "text": "Let\u2019s see, I\u2019ve walked the dog, cleaned my room, gone shopping and gossiped with my friends\u2026Nope, this list doesn\u2019t say that I\u2019m required to talk to you.",
+      "name": "auto137",
+      "id": "texts137"
+    },
+    {
+      "contributor": "auto",
+      "text": "Looks aren\u2019t everything; in your case, they aren\u2019t anything.",
+      "name": "auto138",
+      "id": "texts138"
+    },
+    {
+      "contributor": "auto",
+      "text": "Looks like you fell off the ugly tree and hit every branch on the way down.",
+      "name": "auto139",
+      "id": "texts139"
+    },
+    {
+      "contributor": "auto",
+      "text": "Looks like you traded in your neck for an extra chin!",
+      "name": "auto140",
+      "id": "texts140"
+    },
+    {
+      "contributor": "auto",
+      "text": "Maybe if you ate some of that makeup you could be pretty on the inside.",
+      "name": "auto141",
+      "id": "texts141"
+    },
+    {
+      "contributor": "auto",
+      "text": "Mirrors don\u2019t talk but lucky for you %n they don\u2019t laugh",
+      "name": "auto142",
+      "id": "texts142"
+    },
+    {
+      "contributor": "auto",
+      "text": "My Mom said never talk to strangers and well, since you\u2019re really strange\u2026. I guess that means I can\u2019t talk to you!",
+      "name": "auto143",
+      "id": "texts143"
+    },
+    {
+      "contributor": "auto",
+      "text": "No, those pants don\u2019t make you look fatter \u2013 how could they?",
+      "name": "auto144",
+      "id": "texts144"
+    },
+    {
+      "contributor": "auto",
+      "text": "Oh dear! Looks like you fell out of the ugly tree and hit every branch on the way down!",
+      "name": "auto145",
+      "id": "texts145"
+    },
+    {
+      "contributor": "auto",
+      "text": "Oh I\u2019m sorry, how many times did your parents drop you when you were a baby?",
+      "name": "auto146",
+      "id": "texts146"
+    },
+    {
+      "contributor": "auto",
+      "text": "Oh my God, look at you. Was anyone else hurt in the accident?",
+      "name": "auto147",
+      "id": "texts147"
+    },
+    {
+      "contributor": "auto",
+      "text": "Ordinarily people live and learn. You just live.",
+      "name": "auto148",
+      "id": "texts148"
+    },
+    {
+      "contributor": "auto",
+      "text": "our brain must be made out of rocking horse shit.",
+      "name": "auto149",
+      "id": "texts149"
+    },
+    {
+      "contributor": "auto",
+      "text": "People like you are the reason I\u2019m on medication.",
+      "name": "auto150",
+      "id": "texts150"
+    },
+    {
+      "contributor": "auto",
+      "text": "Please just tell me you don\u2019t plan to home-school your kids.",
+      "name": "auto151",
+      "id": "texts151"
+    },
+    {
+      "contributor": "auto",
+      "text": "Please tell me you don\u2019t home-school your kids.",
+      "name": "auto152",
+      "id": "texts152"
+    },
+    {
+      "contributor": "auto",
+      "text": "Please, keep talking. I always yawn when I am interested.",
+      "name": "auto153",
+      "id": "texts153"
+    },
+    {
+      "contributor": "auto",
+      "text": "Please, keep talking. I only yawn when I\u2019m super fascinated.",
+      "name": "auto154",
+      "id": "texts154"
+    },
+    {
+      "contributor": "auto",
+      "text": "Please, save your breath. You\u2019ll probably need it to blow up your next date.",
+      "name": "auto155",
+      "id": "texts155"
+    },
+    {
+      "contributor": "auto",
+      "text": "Poof be gone, your breath is too strong, I don\u2019t wanna be mean, but you need Listerine, not a sip, not a swallow, but the whole frigging bottle.",
+      "name": "auto156",
+      "id": "texts156"
+    },
+    {
+      "contributor": "auto",
+      "text": "Quick \u2013 check your face! I just found your nose in my business.",
+      "name": "auto157",
+      "id": "texts157"
+    },
+    {
+      "contributor": "auto",
+      "text": "Remember JESUS loves you but everyone else thinks you\u2019re an idiot.",
+      "name": "auto158",
+      "id": "texts158"
+    },
+    {
+      "contributor": "auto",
+      "text": "Remember that time I said I thought you were cool? I lied.",
+      "name": "auto159",
+      "id": "texts159"
+    },
+    {
+      "contributor": "auto",
+      "text": "Remember when I asked for your opinion? Me neither.",
+      "name": "auto160",
+      "id": "texts160"
+    },
+    {
+      "contributor": "auto",
+      "text": "Right now I\u2019m sitting here looking at you trying to see things from your point of view but I can\u2019t get my head that far up my ass.",
+      "name": "auto161",
+      "id": "texts161"
+    },
+    {
+      "contributor": "auto",
+      "text": "Roses are red violets are blue, God made me pretty, what the hell happen to you?",
+      "name": "auto162",
+      "id": "texts162"
+    },
+    {
+      "contributor": "auto",
+      "text": "Roses are red, violets are blue, I have 5 fingers, the 3rd ones for you.",
+      "name": "auto163",
+      "id": "texts163"
+    },
+    {
+      "contributor": "auto",
+      "text": "Save your breath \u2013 you\u2019ll need it to blow up your date.",
+      "name": "auto164",
+      "id": "texts164"
+    },
+    {
+      "contributor": "auto",
+      "text": "Scientists say the universe is made up of neutrons, protons and electrons. They forgot to mention morons.",
+      "name": "auto165",
+      "id": "texts165"
+    },
+    {
+      "contributor": "auto",
+      "text": "So you\u2019ve changed your mind, does this one work any better?",
+      "name": "auto166",
+      "id": "texts166"
+    },
+    {
+      "contributor": "auto",
+      "text": "So, a thought crossed your mind? Must have been a long and lonely journey.",
+      "name": "auto167",
+      "id": "texts167"
+    },
+    {
+      "contributor": "auto",
+      "text": "Some day you\u2019ll go far\u2014and I really hope you stay there.",
+      "name": "auto168",
+      "id": "texts168"
+    },
+    {
+      "contributor": "auto",
+      "text": "Someday you\u2019ll go far\u2026 and I hope you stay there.",
+      "name": "auto169",
+      "id": "texts169"
+    },
+    {
+      "contributor": "auto",
+      "text": "Sometimes it\u2019s better to keep your mouth shut and give the impression that you\u2019re stupid than open it and remove all doubt.",
+      "name": "auto170",
+      "id": "texts170"
+    },
+    {
+      "contributor": "auto",
+      "text": "Sorry I can\u2019t think of an insult stupid enough for you.",
+      "name": "auto171",
+      "id": "texts171"
+    },
+    {
+      "contributor": "auto",
+      "text": "Sorry, I didn\u2019t get that. I don\u2019t speak bullshit.",
+      "name": "auto172",
+      "id": "texts172"
+    },
+    {
+      "contributor": "auto",
+      "text": "Stupidity\u2019s not a crime, so feel free to go.",
+      "name": "auto173",
+      "id": "texts173"
+    },
+    {
+      "contributor": "auto",
+      "text": "Stupidity\u2019s not a crime, so you\u2019re free to go.",
+      "name": "auto174",
+      "id": "texts174"
+    },
+    {
+      "contributor": "auto",
+      "text": "The best part of you is still running down your old mans leg.",
+      "name": "auto175",
+      "id": "texts175"
+    },
+    {
+      "contributor": "auto",
+      "text": "The clothes you wear are so ugly even a scarecrow wouldn\u2019t wear them.",
+      "name": "auto176",
+      "id": "texts176"
+    },
+    {
+      "contributor": "auto",
+      "text": "The only way you\u2019ll ever get laid is if you crawl up a chicken\u2019s ass and wait.",
+      "name": "auto177",
+      "id": "texts177"
+    },
+    {
+      "contributor": "auto",
+      "text": "The sound of your urine hitting the urinal sounds feminine",
+      "name": "auto178",
+      "id": "texts178"
+    },
+    {
+      "contributor": "auto",
+      "text": "The village called. They\u2019d like their idiot back. You better get going.",
+      "name": "auto179",
+      "id": "texts179"
+    },
+    {
+      "contributor": "auto",
+      "text": "The Village just called. They said they were missing their town idiot, I couldn\u2019t really understand them, but I think they were saying the name was yours\u2026",
+      "name": "auto180",
+      "id": "texts180"
+    },
+    {
+      "contributor": "auto",
+      "text": "The zoo called. They\u2019re wondering how you got out of your cage?",
+      "name": "auto181",
+      "id": "texts181"
+    },
+    {
+      "contributor": "auto",
+      "text": "There are more calories in your stomach than in the local supermarket!",
+      "name": "auto182",
+      "id": "texts182"
+    },
+    {
+      "contributor": "auto",
+      "text": "There are some remarkably dumb people in this world. Thanks for helping me understand that.",
+      "name": "auto183",
+      "id": "texts183"
+    },
+    {
+      "contributor": "auto",
+      "text": "There are some stupid people in this world. You just helped me realize it.",
+      "name": "auto184",
+      "id": "texts184"
+    },
+    {
+      "contributor": "auto",
+      "text": "Two wrongs don\u2019t make a right, take your parents as an example.",
+      "name": "auto185",
+      "id": "texts185"
+    },
+    {
+      "contributor": "auto",
+      "text": "Until you called me I couldn\u2019t remember the last time I wanted somebody\u2019s fingers to break so badly.",
+      "name": "auto186",
+      "id": "texts186"
+    },
+    {
+      "contributor": "auto",
+      "text": "We all sprang from apes, but you didn\u2019t spring far enough.",
+      "name": "auto187",
+      "id": "texts187"
+    },
+    {
+      "contributor": "auto",
+      "text": "Were you born on the highway? That is where most accidents happen.",
+      "name": "auto188",
+      "id": "texts188"
+    },
+    {
+      "contributor": "auto",
+      "text": "Were you born this stupid or did you take lessons?",
+      "name": "auto189",
+      "id": "texts189"
+    },
+    {
+      "contributor": "auto",
+      "text": "What are you doing here? Did someone leave your cage open?",
+      "name": "auto190",
+      "id": "texts190"
+    },
+    {
+      "contributor": "auto",
+      "text": "What are you going to do for a face when the baboon wants his butt back?",
+      "name": "auto191",
+      "id": "texts191"
+    },
+    {
+      "contributor": "auto",
+      "text": "Whatever kind of look you were going for, you missed.",
+      "name": "auto192",
+      "id": "texts192"
+    },
+    {
+      "contributor": "auto",
+      "text": "What\u2019s that ugly thing growing out of your neck\u2026 Oh\u2026 It\u2019s your head\u2026",
+      "name": "auto193",
+      "id": "texts193"
+    },
+    {
+      "contributor": "auto",
+      "text": "What\u2019s the difference between your girlfriend and a walrus? One has a moustache and smells of fish and the other is a walrus.",
+      "name": "auto194",
+      "id": "texts194"
+    },
+    {
+      "contributor": "auto",
+      "text": "When anorexics see you, they think they need to go on a diet.",
+      "name": "auto195",
+      "id": "texts195"
+    },
+    {
+      "contributor": "auto",
+      "text": "When it comes to IQ, you lose some every time you use the bathroom.",
+      "name": "auto196",
+      "id": "texts196"
+    },
+    {
+      "contributor": "auto",
+      "text": "When was the last time you could see your whole body in the mirror?",
+      "name": "auto197",
+      "id": "texts197"
+    },
+    {
+      "contributor": "auto",
+      "text": "When you were born you were so ugly that instead of slapping you, the doctor slapped your mom! leave a message",
+      "name": "auto198",
+      "id": "texts198"
+    },
+    {
+      "contributor": "auto",
+      "text": "When you were born, the doctor came out to the waiting room and said to your dad, \u201cI\u2019m very sorry. We did everything we could. But he pulled through.\u201d",
+      "name": "auto199",
+      "id": "texts199"
+    },
+    {
+      "contributor": "auto",
+      "text": "Whenever we hang out, I remember that God really does have a sense of humor.",
+      "name": "auto200",
+      "id": "texts200"
+    },
+    {
+      "contributor": "auto",
+      "text": "Which sexual position produces the ugliest children? Ask your mother.",
+      "name": "auto201",
+      "id": "texts201"
+    },
+    {
+      "contributor": "auto",
+      "text": "Why are you bothering me? I have my away message on cause I don\u2019t want to listen to you and your stupid nonsense.",
+      "name": "auto202",
+      "id": "texts202"
+    },
+    {
+      "contributor": "auto",
+      "text": "Why don\u2019t you check eBay and see if they have a life for sale.",
+      "name": "auto203",
+      "id": "texts203"
+    },
+    {
+      "contributor": "auto",
+      "text": "Why don\u2019t you go outside any play, hide and go f**k yourself",
+      "name": "auto204",
+      "id": "texts204"
+    },
+    {
+      "contributor": "auto",
+      "text": "Why is it acceptable for you to be an idiot but not for me to point it out?",
+      "name": "auto205",
+      "id": "texts205"
+    },
+    {
+      "contributor": "auto",
+      "text": "Wow, I bet you even fart glitter.",
+      "name": "auto206",
+      "id": "texts206"
+    },
+    {
+      "contributor": "auto",
+      "text": "Wow, you looked a lot hotter from a distance!",
+      "name": "auto207",
+      "id": "texts207"
+    },
+    {
+      "contributor": "auto",
+      "text": "Yeah you\u2019re pretty, pretty stupid.",
+      "name": "auto208",
+      "id": "texts208"
+    },
+    {
+      "contributor": "auto",
+      "text": "You always bring me so much joy\u2014as soon as you leave the room.",
+      "name": "auto209",
+      "id": "texts209"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are depriving some poor village of its idiot.",
+      "name": "auto210",
+      "id": "texts210"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are proof that evolution can go in reverse.",
+      "name": "auto211",
+      "id": "texts211"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are proof that evolution CAN go in reverse.",
+      "name": "auto212",
+      "id": "texts212"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are proof that God has a sense of humor.",
+      "name": "auto213",
+      "id": "texts213"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are so old, even your memory is in black and white.",
+      "name": "auto214",
+      "id": "texts214"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are so old, your birth-certificate expired.",
+      "name": "auto215",
+      "id": "texts215"
+    },
+    {
+      "contributor": "auto",
+      "text": "You are so stupid, you\u2019d trip over a cordless phone.",
+      "name": "auto216",
+      "id": "texts216"
+    },
+    {
+      "contributor": "auto",
+      "text": "You better hope you marry rich.",
+      "name": "auto217",
+      "id": "texts217"
+    },
+    {
+      "contributor": "auto",
+      "text": "You bring everyone a lot of joy, when you leave the room.",
+      "name": "auto218",
+      "id": "texts218"
+    },
+    {
+      "contributor": "auto",
+      "text": "You conserve toilet paper by using both sides.",
+      "name": "auto219",
+      "id": "texts219"
+    },
+    {
+      "contributor": "auto",
+      "text": "You couldn\u2019t hit water if you fell out of a boat.",
+      "name": "auto220",
+      "id": "texts220"
+    },
+    {
+      "contributor": "auto",
+      "text": "You didn\u2019t fall out of the stupid tree. You were dragged through dumb-ass forest.",
+      "name": "auto221",
+      "id": "texts221"
+    },
+    {
+      "contributor": "auto",
+      "text": "You do realize makeup isn\u2019t going to fix your stupidity?",
+      "name": "auto222",
+      "id": "texts222"
+    },
+    {
+      "contributor": "auto",
+      "text": "You fear success, but really have nothing to worry about.",
+      "name": "auto223",
+      "id": "texts223"
+    },
+    {
+      "contributor": "auto",
+      "text": "You get as much action as a nine button on a microwave.",
+      "name": "auto224",
+      "id": "texts224"
+    },
+    {
+      "contributor": "auto",
+      "text": "You grow on people, like a wart!",
+      "name": "auto225",
+      "id": "texts225"
+    },
+    {
+      "contributor": "auto",
+      "text": "You have a very sympathetic face. It has everyone\u2019s sympathy.",
+      "name": "auto226",
+      "id": "texts226"
+    },
+    {
+      "contributor": "auto",
+      "text": "You have the right to remain silent because whatever you say will probably be stupid anyway.",
+      "name": "auto227",
+      "id": "texts227"
+    },
+    {
+      "contributor": "auto",
+      "text": "You have your entire life to be a jerk. Why not take today off?",
+      "name": "auto228",
+      "id": "texts228"
+    },
+    {
+      "contributor": "auto",
+      "text": "You have your whole life to be a jerk\u2026.so why don\u2019t you take a day off so.. leave me a message for when I get back!!!!",
+      "name": "auto229",
+      "id": "texts229"
+    },
+    {
+      "contributor": "auto",
+      "text": "You know the drill! You leave a message\u2026.and I ignore it!",
+      "name": "auto230",
+      "id": "texts230"
+    },
+    {
+      "contributor": "auto",
+      "text": "You look like a before picture.",
+      "name": "auto231",
+      "id": "texts231"
+    },
+    {
+      "contributor": "auto",
+      "text": "You may not be the best looking girl here, but beauty is only a light switch away!",
+      "name": "auto232",
+      "id": "texts232"
+    },
+    {
+      "contributor": "auto",
+      "text": "You must be the arithmetic man; you add trouble, subtract pleasure, divide attention, and multiply ignorance.",
+      "name": "auto233",
+      "id": "texts233"
+    },
+    {
+      "contributor": "auto",
+      "text": "You must have a very low opinion of people if you think they are your equals.",
+      "name": "auto234",
+      "id": "texts234"
+    },
+    {
+      "contributor": "auto",
+      "text": "You must have been born on a highway because that\u2019s where most accidents happen.",
+      "name": "auto235",
+      "id": "texts235"
+    },
+    {
+      "contributor": "auto",
+      "text": "You must think you\u2019re strong, but you only smell strong.",
+      "name": "auto236",
+      "id": "texts236"
+    },
+    {
+      "contributor": "auto",
+      "text": "You occasionally stumble over the truth, but you quickly pick yourself up and carry on as if nothing happened.",
+      "name": "auto237",
+      "id": "texts237"
+    },
+    {
+      "contributor": "auto",
+      "text": "You only annoy me when you\u2019re breathing, really.",
+      "name": "auto238",
+      "id": "texts238"
+    },
+    {
+      "contributor": "auto",
+      "text": "You prefer three left turns to one right turn.",
+      "name": "auto239",
+      "id": "texts239"
+    },
+    {
+      "contributor": "auto",
+      "text": "You shouldn\u2019t play hide and seek, no one would look for you.",
+      "name": "auto240",
+      "id": "texts240"
+    },
+    {
+      "contributor": "auto",
+      "text": "You so ugly when who were born the doctor threw you out the window and the window threw you back!",
+      "name": "auto241",
+      "id": "texts241"
+    },
+    {
+      "contributor": "auto",
+      "text": "You stare at frozen juice cans because they say, \u2018concentrate\u2019.",
+      "name": "auto242",
+      "id": "texts242"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your ass must be pretty jealous of all the shit that comes out of your mouth.",
+      "name": "auto243",
+      "id": "texts243"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your dad\u2019s condom is a bigger than your personality.",
+      "name": "auto244",
+      "id": "texts244"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your doctor called with your colonoscopy results. Good news \u2013 they found your head.",
+      "name": "auto245",
+      "id": "texts245"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your ears are so big when you stand on a mountain they look like trophy handles.",
+      "name": "auto246",
+      "id": "texts246"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your face is so ugly, when you cry the tears run UP your face.",
+      "name": "auto247",
+      "id": "texts247"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your family tree must be a cactus because everyone on it is a prick.",
+      "name": "auto248",
+      "id": "texts248"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your family tree must be a cactus \u2018cause you\u2019re all a bunch of pricks.",
+      "name": "auto249",
+      "id": "texts249"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your head is so big you have to step into your shirts.",
+      "name": "auto250",
+      "id": "texts250"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your house is so dirty you have to wipe your feet before you go outside.",
+      "name": "auto251",
+      "id": "texts251"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your house is so nasty, I tripped over a rat, and a cockroach stole my wallet.",
+      "name": "auto252",
+      "id": "texts252"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your lips keep moving but all I hear is \u201cBlah, blah, blah.\u201d",
+      "name": "auto253",
+      "id": "texts253"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019ll never be the man your mom is.",
+      "name": "auto254",
+      "id": "texts254"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019ll never be the man your mother is.",
+      "name": "auto255",
+      "id": "texts255"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re a person of rare intelligence. It\u2019s rare when you show any.",
+      "name": "auto256",
+      "id": "texts256"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re about as useful as a screen door on a submarine.",
+      "name": "auto257",
+      "id": "texts257"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re about as useful as an ashtray on a motorcycle.",
+      "name": "auto258",
+      "id": "texts258"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re as useful as an ashtray on a motorcycle.",
+      "name": "auto259",
+      "id": "texts259"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re as useless as a screen door on a submarine.",
+      "name": "auto260",
+      "id": "texts260"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re not exactly bad looking. There\u2019s just one little problem between your ears \u2013 your face!",
+      "name": "auto261",
+      "id": "texts261"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re not stupid; you just have bad luck when thinking.",
+      "name": "auto262",
+      "id": "texts262"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat a picture of you would fall off the wall!",
+      "name": "auto263",
+      "id": "texts263"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat the only letters of the alphabet you know are KFC.",
+      "name": "auto264",
+      "id": "texts264"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat you could sell shade.",
+      "name": "auto265",
+      "id": "texts265"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat you need cheat codes to play Wii Fit.",
+      "name": "auto266",
+      "id": "texts266"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat, when you wear a yellow rain coat people scream \u201dtaxi\u201d.",
+      "name": "auto267",
+      "id": "texts267"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat, you have to use a mattress as a maxi-pad.",
+      "name": "auto268",
+      "id": "texts268"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so fat, your double chin has a double chin.",
+      "name": "auto269",
+      "id": "texts269"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so stupid you tried to wake a sleeping bag.",
+      "name": "auto270",
+      "id": "texts270"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so stupid, it takes you an hour to cook minute rice.",
+      "name": "auto271",
+      "id": "texts271"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly Hello Kitty said goodbye to you.",
+      "name": "auto272",
+      "id": "texts272"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly when you look in the mirror, your reflection looks away.",
+      "name": "auto273",
+      "id": "texts273"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly you have to trick or treat over the phone.",
+      "name": "auto274",
+      "id": "texts274"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, the only dates you get are on a calendar.",
+      "name": "auto275",
+      "id": "texts275"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, they call you the exterminator, because you kill bugs on sight.",
+      "name": "auto276",
+      "id": "texts276"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, when you got robbed, the robbers made you wear their masks.",
+      "name": "auto277",
+      "id": "texts277"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, when you threw a boomerang it didn\u2019t come back.",
+      "name": "auto278",
+      "id": "texts278"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, you had tinted windows on your incubator.",
+      "name": "auto279",
+      "id": "texts279"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, you scared the crap out of the toilet.",
+      "name": "auto280",
+      "id": "texts280"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re so ugly, your mother had to tie a steak around your neck to get the dog to play with you!",
+      "name": "auto281",
+      "id": "texts281"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re stupid because you\u2019re blonde.",
+      "name": "auto282",
+      "id": "texts282"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re such a beautiful, intelligent, wonderful person. Oh I\u2019m sorry, I thought we were having a lying competition.",
+      "name": "auto283",
+      "id": "texts283"
+    },
+    {
+      "contributor": "auto",
+      "text": "You\u2019re the reason they invented double doors!",
+      "name": "auto284",
+      "id": "texts284"
+    },
+    {
+      "contributor": "auto",
+      "text": "It appears, due to circumstances entirely out of my control, that despite every best effort I am forced to draw the conclusion from matters entirely separate from your actions that all fucks which were previously reserved here for your convenience have now found themselves within something of a deficit.",
+      "name": "auto285",
+      "id": "texts285"
+    },
+    {
+      "contributor": "auto",
+      "text": "I've checked my **things to do** list. I searched a lot but giving a fuck about you just isn't there",
+      "name": "auto286",
+      "id": "texts286"
+    },
+    {
+      "contributor": "auto",
+      "text": "**NASA** sent a deep space probe to the planet `Giveafuckaboutyou` and confirmed that I wasn't there",
+      "name": "auto287",
+      "id": "texts287"
+    },
+    {
+      "contributor": "auto",
+      "text": "Your web search **times I give a fuck about you** returned no results. Did you mean **times I don't give a fuck about you?**",
+      "name": "auto288",
+      "id": "texts288"
+    },
+    {
+      "contributor": "auto",
+      "text": "Today's lesson is titled **I don't give a fuck about you**. Tomorrow's lesson is the same as today's!!",
+      "name": "auto289",
+      "id": "texts289"
+    },
+    {
+      "contributor": "auto",
+      "text": "**Wanting** you to fuck off and **giving** a fuck about you are not the same thing. So fuck off!!",
+      "name": "auto290",
+      "id": "texts290"
     }
-  ], 
+  ],
   "basePath": "assets/texts/"
 }
